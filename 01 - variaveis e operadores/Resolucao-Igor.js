@@ -16,3 +16,4 @@ const const_distanciaEmKm = 100;
 var var_LitrosConsumidos =  const_distanciaEmKm / const_KmPorLitros;
 var var_valorGasto = var_LitrosConsumidos * const_PrecoCombustivel;
 console.log(var_valorGasto);
+console.log(var_valorGasto.toFixed(2)); // INSERE 2 CASAS DECIMAIS
