@@ -1,12 +1,13 @@
 ## Formação JavaScript Developer
 <div align="center">
-<table rules="none">
+<table>
   <tr>
     <td><img width="210"src="https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png"></td>
     <td><img  width="210"src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg">
 </td>
   </tr>
 </table>
+<style> tr, td, th {border:none;}</style>
 
 </div>
 
