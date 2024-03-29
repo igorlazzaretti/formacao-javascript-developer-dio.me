@@ -7,7 +7,8 @@
 </td>
   </tr>
 </table>
-<style> tr, td, th {border:none !important;}</style>
+<style> tr, td, th {border:none!important;}</style>
+
 
 </div>
 
@@ -55,3 +56,17 @@ Nos dois módulos seguintes, você dominará os conceitos necessários para util
 > "Acredite nos seus sonhos" <br> - Igor Dossin Lazzaretti
 
 </div>
+
+
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
