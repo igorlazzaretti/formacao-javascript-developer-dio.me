@@ -7,7 +7,7 @@
 </td>
   </tr>
 </table>
-<style> tr, td, th {border:none;}</style>
+<style> tr, td, th {border:none !important;}</style>
 
 </div>
 
